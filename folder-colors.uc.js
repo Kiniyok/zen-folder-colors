@@ -25,13 +25,13 @@
       /* Folder Colors: X-Plane */
       zen-folder[${ATTR}="xplane"] > .tab-group-label-container,
       zen-folder[${ATTR}="xplane"] > .tab-group-label-container > label {
-        background: rgba(105, 145, 105, 0.30) !important;
-        background-color: rgba(105, 145, 105, 0.30) !important;
+        background: rgba(80, 125, 80, 0.55) !important;
+        background-color: rgba(80, 125, 80, 0.55) !important;
       }
 
       zen-folder[${ATTR}="xplane"] .tabbrowser-tab > .tab-stack > .tab-background {
-        background: rgba(105, 145, 105, 0.30) !important;
-        background-color: rgba(105, 145, 105, 0.30) !important;
+        background: rgba(80, 125, 80, 0.55) !important;
+        background-color: rgba(80, 125, 80, 0.55) !important;
         border-radius: 7px !important;
       }
 
