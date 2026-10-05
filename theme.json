@@ -1,7 +1,7 @@
 {
   "id": "folder-colors",
   "name": "Folder Colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Attribue automatiquement une couleur aux dossiers natifs Zen selon leur nom : X-Plane, Personnel et Autres.",
   "author": "OpenAI",
   "homepage": "https://github.com/zen-browser/desktop",
