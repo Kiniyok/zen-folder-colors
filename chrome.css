@@ -1,0 +1,5 @@
+/* Folder Colors
+   The JavaScript adds data-folder-color to matching zen-folder elements.
+   This file is intentionally empty because the JS injects the rules,
+   allowing the colors to follow folders created or renamed later.
+*/

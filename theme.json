@@ -1,0 +1,30 @@
+{
+  "id": "folder-colors",
+  "name": "Folder Colors",
+  "version": "1.0.0",
+  "description": "Attribue automatiquement une couleur aux dossiers natifs Zen selon leur nom : X-Plane, Personnel et Autres.",
+  "author": "OpenAI",
+  "homepage": "https://github.com/zen-browser/desktop",
+  "readme": "README.md",
+  "style": {
+    "chrome": "chrome.css"
+  },
+  "scripts": {
+    "folder-colors.uc.js": {
+      "include": [
+        "chrome://browser/content/browser.xhtml"
+      ],
+      "loadOrder": 50
+    }
+  },
+  "supportsUnload": true,
+  "tags": [
+    "folders",
+    "sidebar",
+    "colors",
+    "chrome"
+  ],
+  "fork": [
+    "zen"
+  ]
+}
